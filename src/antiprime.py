@@ -28,9 +28,6 @@ def main(x) :
 			sum2 = 0
 	if (sum1 > sum2):
 		return ("anti-prime")
-			
-
-
 	## THE LAST LINES OF YOUR CODE SHOULD EITHER
 	## RETURN THE VALUE "anti-prime" or "not anti-prime"
 	## REPLACE THE FOLLOWING LINE BY WHATEVER LINES
@@ -38,7 +35,6 @@ def main(x) :
 	## "anti-prime" or "not anti-prime"
 ## DO NOT REMOVE THIS LINE BELOW
 if __name__ == "__main__" :
-
 	## MODIFY THE LINE BELOW AND ADD BEFORE WHATEVER LINES ARE NECESSARY
 	## TO RUN THIS PROGRAM AS, FOR INSTANCE:
 	## $ python antiprime.py 6
