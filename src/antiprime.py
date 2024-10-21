@@ -35,6 +35,7 @@ def main(x) :
 	## "anti-prime" or "not anti-prime"
 ## DO NOT REMOVE THIS LINE BELOW
 if __name__ == "__main__" :
+	x = int(sys.argv[1])
 	## MODIFY THE LINE BELOW AND ADD BEFORE WHATEVER LINES ARE NECESSARY
 	## TO RUN THIS PROGRAM AS, FOR INSTANCE:
 	## $ python antiprime.py 6
